@@ -13,7 +13,7 @@ body {
 
 .nav-container {
   height: 60px;
-  background-color: #333333;
+  background-color: #3a778e;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -73,8 +73,10 @@ body {
 
 .nav-container .navbar ul li a {
   text-decoration: none;
-  color: #999999;
-  font-size: 14px;
+  color: #cccccc;
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 18px;
   text-transform: uppercase;
   display: block;
   height: 60px;
@@ -161,10 +163,10 @@ body {
 
   .nav-container .navbar ul li a {
     padding: 10px;
-    font-size: 16px;
+    font-size: 18px;
     height: auto;
     line-height: normal;
-    color: #555555;
+    color: #333333;
   }
 
   .nav-container .navbar ul .close {
