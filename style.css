@@ -115,6 +115,7 @@ main
    font-weight: 600;
    font-size: 18px;
    text-transform: uppercase;
+   letter-spacing: 1px;
    display: block;
    height: 60px;
    line-height: 60px;
