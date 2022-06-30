@@ -1,2 +1,1 @@
-# navi
-Created with CodeSandbox
+# Hacking-news
